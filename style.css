@@ -1,0 +1,9 @@
+.login-area{
+    padding: 10rem;
+}
+.submit-form{
+    border: 2px solid rgb(230, 226, 226);
+    border-radius: 6px;
+    padding: 2rem;
+    box-shadow: 2px 4px 8px rgb(224, 223, 223);
+}
